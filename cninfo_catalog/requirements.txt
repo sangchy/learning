@@ -1,0 +1,2 @@
+# 第一期只用 Python 3.9+ 标准库（urllib、sqlite3、argparse、zoneinfo）。
+# 没有第三方依赖。以后如果要加 requests 或其他包，写在这里。
