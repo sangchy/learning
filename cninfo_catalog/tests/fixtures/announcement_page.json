@@ -1,0 +1,30 @@
+{
+  "totalAnnouncement": 2,
+  "hasMore": false,
+  "totalRecordNum": 2,
+  "announcements": [
+    {
+      "secCode": "000001",
+      "secName": "平安银行",
+      "orgId": "gssz0000001",
+      "announcementId": "1225620612",
+      "announcementTitle": "关联交易公告",
+      "announcementTime": 1792771200000,
+      "adjunctUrl": "finalpage/2026-10-24/1225620612.PDF",
+      "announcementType": "01010503||010112||011719",
+      "announcementTypeName": null,
+      "pageColumn": "SZZB"
+    },
+    {
+      "secCode": "000001",
+      "secName": "平安银行",
+      "orgId": "gssz0000001",
+      "announcementId": "1220000002",
+      "announcementTitle": "<em>跨日</em>公告",
+      "announcementTime": 1704038399999,
+      "adjunctUrl": "",
+      "announcementTypeName": "年度报告",
+      "shortTitle": "跨日公告"
+    }
+  ]
+}
